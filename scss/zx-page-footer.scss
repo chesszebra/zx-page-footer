@@ -1,0 +1,40 @@
+.zx-footer {
+  background-color: #fff;
+  border-top: 1px solid #f1f2f3;
+  font-size: 0.85rem;
+  padding: 15px 30px;
+
+  a {
+    color: #616a78;
+  }
+
+  a:hover {
+    color: #f26444;
+  }
+
+  p {
+    margin-bottom: 0;
+    font-weight: 400;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    font-size: 0.95rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+}
+
+.zx-footer-column {
+  padding: 0 15px;
+}
+
+.zx-footer.zx-footer-transparant {
+  background-color: inherit;
+  border: none;
+  color: #aaa;
+
+  a {
+    color: #aaa;
+  }
+}
